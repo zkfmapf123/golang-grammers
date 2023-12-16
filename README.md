@@ -18,5 +18,5 @@
 - [고루틴.md](./concurrency.md)
 - [고루틴](./concurrency/goroutine.go)
 - [고루틴-채널](./concurrency/shared-channel.go)
-- [고루틴-동기화-패턴](./concurrency/select-pattern.go)
+- [select-pattern](./concurrency/select-pattern.go)
 - [mutex-pattern](./concurrency/mutex.go)
