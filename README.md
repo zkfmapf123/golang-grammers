@@ -12,3 +12,10 @@
 - [struct-상속-pointer](./grammers/pointer-extends.go)
 - [Interface좀더잘쓰기-고급](./grammers/advanced-interface.go)
 - [제네릭](./grammers/generic.go)
+
+> Concurrency
+
+- [고루틴.md](./concurrency.md)
+- [고루틴](./concurrency/goroutine.go)
+- [고루틴-채널](./concurrency/shared-channel.go)
+- [고루틴-동기화-패턴](./concurrency/sync-pattern.go)
